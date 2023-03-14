@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/valennveroncaceres" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valennveroncaceres" height="30" width="40" /></a>
 <a href="https://github.com/valennveroncaceres" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="valennveroncaceres" height="30" width="40" /></a>
-<a href="https://www.instagram.com/valen_veron/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valen_veron" height="30" width="40" /></a>
+<a href="https://twitter.com/veron_caceres" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="valen_veron" height="30" width="40" /></a>
 </p>
 <h3 align="left">Mis habilidades:</h3>
 <p align="left">

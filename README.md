@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentín</h1>
-<h3 align="center">Soy un Programador con bases en Ingenieria</h3>
+<h3 align="center">Soy un Programador y estudiante de Sistemas</h3>
 
 - 🌱 I’m currently learning **React, Nest.JS and Data Bases**
 

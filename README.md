@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Valentín</h1>
 <h3 align="center">Software Developer and Software Engineering student </h3>
 
-- 🌱 I’m currently work with **React, Nest.JS and Data Bases**
+- 🌱 I’m currently work with **React, Next.js, Node.js and TypeScript**
 
-- 💬 Ask me about **Testing, TailwindCss, JavaScript, Node.JS, Typescript**
+- 💬 Ask me about **web development**
 
 - 📫 How to reach me **veroncaceresvalentin@gmail.com**
 

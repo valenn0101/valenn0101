@@ -1,21 +1,77 @@
-# 💫 About Me:
-Hi! My name is Valentin, I'm a Web Developer and Systems Engineering Student<br><br>I've had the opportunity to work on a diverse range of projects, from MVPs to well-established platforms with high traffic and a solid customer base. This experience has equipped me with a strong set of technical and management skills to confidently tackle each new challenge.<br><br>💡 Passionate about technology and committed to creating experiences that truly add value. Every feature I develop or solution I propose is designed to enhance the end-user experience.<br><br>👥 I thrive on tackling new challenges, working in a team, and contributing to long-term project growth. My focus is on deeply understanding each client's requirements and enhancing their ideas with innovative and effective solutions.
+<!--
+Profile README for: valenn0101
+Tip: keep it scannable. Recruiters skim in ~10 seconds.
+-->
 
+# Valentín Cáceres — Software Developer (Web) · Automation & AI
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vcvalentin) 
+I build reliable web products and automations that remove manual work.  
+**Focus:** backend/frontend delivery, integrations, workflow automation (Make / n8n), and practical AI features.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=valenn0101&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=valenn0101&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=valenn0101&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="left">
+  <a href="https://www.linkedin.com/in/TU-LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:TU_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-333?logo=gmail&logoColor=white"></a>
+  <a href="https://TU-PORTFOLIO"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-111?logo=vercel&logoColor=white"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=valenn0101&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I do
+- **Software Development:** ship features end-to-end (requirements → code → deploy → observe).
+- **Automation:** connect tools via APIs/webhooks, reduce ops overhead, keep data consistent.
+- **AI (practical):** integrate LLMs for support, content, enrichment, routing, and internal productivity.
+
+---
+
+## Now building
+- ⚙️ **Automation workflows** with Make / n8n (webhooks, queues, retries, observability)
+- 🤖 **AI assistants** for summarizing, classifying, and routing (OpenAI + structured outputs)
+- 🔌 **Integrations**: Stripe/PayPal, CRMs, email providers, analytics, internal dashboards
+
+> Current goal: publish small, real projects with clean docs and measurable impact (time saved, errors reduced, conversion improved).
+
+---
+
+## Automation + AI toolkit
+**Automation:** Make, n8n, Webhooks, REST APIs, OAuth, schedulers, message queues  
+**AI:** prompt patterns, function/tool calling, JSON schemas, evaluation, guardrails  
+**Engineering:** TypeScript, React/Next.js, PHP/Laravel, MySQL/Postgres, Docker, GitHub Actions, AWS basics
+
+---
+
+## Featured projects
+<!-- Option A: Pin repo cards (recommended) -->
+<p align="left">
+  <a href="https://github.com/valenn0101/REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valenn0101&repo=REPO_1" />
+  </a>
+  <a href="https://github.com/valenn0101/REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valenn0101&repo=REPO_2" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/valenn0101/REPO_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valenn0101&repo=REPO_3" />
+  </a>
+  <a href="https://github.com/valenn0101/REPO_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valenn0101&repo=REPO_4" />
+  </a>
+</p>
+
+<!-- Option B: Minimal list with “what it does” (if you prefer text) -->
+<!--
+### Highlights
+- **REPO_1** — What it automates + key tech (Make/n8n/OpenAI/etc)
+- **REPO_2** — What problem it solves + measurable result
+- **REPO_3** — Integration project + architecture notes
+-->
+
+---
+
+## GitHub stats (optional)
+<img src="https://github-readme-stats.vercel.app/api?username=valenn0101&show_icons=true&hide_title=true" />
+
+---
+
+## Contact
+If you want to collaborate on automation or AI-integrations, feel free to reach out on LinkedIn.

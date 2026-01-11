@@ -1,40 +1,39 @@
-<!--
-Profile README for: valenn0101
-Tip: keep it scannable. Recruiters skim in ~10 seconds.
--->
-
-# Valentín Cáceres — Software Developer (Web) · Automation & AI
+# Valentín Cáceres — Software Developer · Automation & AI
 
 I build reliable web products and automations that remove manual work.  
-**Focus:** backend/frontend delivery, integrations, workflow automation (Make / n8n), and practical AI features.
+**Focus:** backend/frontend delivery, workflow automation (Make / n8n), integrations, and practical AI features.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:TU_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-333?logo=gmail&logoColor=white"></a>
-  <a href="https://TU-PORTFOLIO"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-111?logo=vercel&logoColor=white"></a>
-</p>
+🌐 [LinkedIn](https://linkedin.com/in/vcvalentin)
 
 ---
 
-## What I do
-- **Software Development:** ship features end-to-end (requirements → code → deploy → observe).
-- **Automation:** connect tools via APIs/webhooks, reduce ops overhead, keep data consistent.
-- **AI (practical):** integrate LLMs for support, content, enrichment, routing, and internal productivity.
+## What I can build
+- **Web features end-to-end:** from requirements to production (UI, APIs, DB, deployments).
+- **Workflow automations:** Make / n8n scenarios (webhooks, schedulers, retries, error handling, logging).
+- **Integrations:** connect services via REST APIs, OAuth, Stripe/payments, email providers, CRMs, analytics.
+- **AI-powered workflows:** summarization, classification, routing, extraction (LLMs + structured JSON outputs).
+- **Internal tools & dashboards:** admin panels, reports, data sync, monitoring/alerts.
 
 ---
 
-## Now building
-- ⚙️ **Automation workflows** with Make / n8n (webhooks, queues, retries, observability)
-- 🤖 **AI assistants** for summarizing, classifying, and routing (OpenAI + structured outputs)
-- 🔌 **Integrations**: Stripe/PayPal, CRMs, email providers, analytics, internal dashboards
+## Toolkit
+### Automation + AI
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-111?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-222?style=for-the-badge)
+![OAuth](https://img.shields.io/badge/OAuth-3C3C3C?style=for-the-badge)
 
-> Current goal: publish small, real projects with clean docs and measurable impact (time saved, errors reduced, conversion improved).
-
----
-
-## Automation + AI toolkit
-**Automation:** Make, n8n, Webhooks, REST APIs, OAuth, schedulers, message queues  
-**AI:** prompt patterns, function/tool calling, JSON schemas, evaluation, guardrails  
-**Engineering:** TypeScript, React/Next.js, PHP/Laravel, MySQL/Postgres, Docker, GitHub Actions, AWS basics
+### Software Engineering
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---

@@ -2,11 +2,19 @@
 
 **Software Engineer · Full-Stack Development & AI Agents**
 
-I build web applications and practical AI tools. Based in Argentina, I've worked with teams in England and Australia on production features, APIs, payment integrations, and cloud deployments.
+I'm a Software Engineer based in Argentina with 3+ years of experience building and maintaining production applications for teams in England and Australia. I work across the stack, from APIs and payment integrations to responsive interfaces and AWS deployments.
 
 I like building side projects around problems I encounter myself—from tracking investments to improving my calisthenics technique.
 
-[Website](https://valentincaceres.xyz/) · [LinkedIn](https://www.linkedin.com/in/vcvalentin/)
+[Website](https://valentincaceres.xyz/) · [LinkedIn — full experience](https://www.linkedin.com/in/vcvalentin/)
+
+## Experience
+
+- **We Make Footballers — Ssr Software Engineer:** currently working remotely with the team in England.
+- **Lumation Services LLC — Freelance Software Developer:** ongoing freelance work.
+- **Bigger — Software Developer:** worked remotely with the Australian team on full-stack applications, payment integrations, E2E testing, and AWS delivery.
+
+My work includes shipping product features, resolving production issues, improving existing code, and building multi-agent pipelines for support workflows. I care about clear interfaces, maintainable systems, and useful automation.
 
 ## Selected projects
 
@@ -23,7 +31,7 @@ Video-based technique analysis with timestamped feedback, a second AI verificati
 ## What I work with
 
 - **Product development:** TypeScript, React, Next.js, Node.js, PHP, and Laravel.
-- **Data and delivery:** SQL databases, AWS, Docker, and GitHub Actions.
+- **Data and delivery:** MySQL, SQLite, AWS, Docker, and automated testing.
 - **AI and automation:** model APIs, structured outputs, agents, and workflow integrations.
 
 I'm interested in remote engineering opportunities combining full-stack product work, practical AI integrations, and system design.

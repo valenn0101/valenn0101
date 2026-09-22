@@ -2,7 +2,7 @@
 
 Software Engineer · Product engineering & AI agents
 
-[Personal notebook](https://valentincaceres.xyz/) · [LinkedIn](https://www.linkedin.com/in/vcvalentin/)
+[Web](https://valentincaceres.xyz/) · [LinkedIn](https://www.linkedin.com/in/vcvalentin/)
 
 ## `about.md`
 
